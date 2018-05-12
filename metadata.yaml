@@ -1,0 +1,34 @@
+_repo: Correspondence-between-the-late-Commodore-Stephen-Decatur-and-Commodore-James-Barronwhich-led__34393
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Barron, James
+    birthdate: 1769
+    deathdate: 1851
+    gutenberg_agent_id: '36998'
+    url: http://www.gutenberg.org/2009/agents/36998
+  - agent_name: Decatur, Stephen
+    birthdate: 1779
+    deathdate: 1820
+    gutenberg_agent_id: '36997'
+    url: http://www.gutenberg.org/2009/agents/36997
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Decatur
+description: ''
+gutenberg_issued: '2010-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Barron, James, 1769-1851 -- Correspondence'
+- !lcsh 'Decatur, Stephen, 1779-1820 -- Correspondence'
+- !lcc 'E300'
+title: Correspondence, between the late Commodore Stephen Decatur and Commodore James
+  Barron, which led to the unfortunate meeting of the twenty-second of March
+url: http://www.gutenberg.org/ebooks/34393
